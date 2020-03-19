@@ -132,7 +132,7 @@ Click on `jetTree` and play around.
 
 ## Running on quark cluster from home
 ```
-ssh -Y [solisID]@gemini.uu.nl
+ssh -Y [solisID]@gemini.science.uu.nl
 ssh -Y quark.science.uu.nl
 ```
 Now you are remotely logged in.
